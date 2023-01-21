@@ -1,0 +1,71 @@
+.login-head{
+    display : flex;
+    align-items : center;
+    justify-content : center;
+    color : #fff;
+    background: #161612;
+    padding:2rem 2rem;
+    width : 100%;
+    font-size : 4rem;
+    gap : 100px;
+}
+
+
+.sign-head{
+    background: #161612;
+}
+
+.footer1{
+    display : flex;
+    align-items : center;
+    justify-content : center;
+    color : #fff;
+    background: #161612;
+    padding:2rem 2rem;
+    width : 100%;
+    font-size : 2rem;
+    width : 80rem;
+    border-radius : 10px;
+    margin-top : -150px;
+    margin-left : 100px;
+}
+
+.footerbox{
+    display : flex;
+    align-items : center;
+    justify-content : center;
+}
+
+.container{
+    color: #fff;
+    margin-top : -40px;
+    margin-left : 130px;
+
+}
+
+.panel{
+    background:#161612;
+}
+
+.panel-info>.panel-heading {
+    color: #fff;
+    background-color: 	hsl(60, 10%, 30%);
+    border-color: hsl(60, 10%, 30%);
+    background-image: none;
+    padding : 20px 20px;
+}
+
+
+.form-group {
+    margin: 40px;
+}
+
+.bgimg{
+    background : url('bgimg1.png');
+    background-repeat : no-repeat;
+    background-size : 100% 100%;
+}
+
+legend{
+    color : #fff;
+}

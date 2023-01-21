@@ -1,0 +1,117 @@
+body{
+    /* background-image: url('bgimg2.png');
+    background-repeat : no-repeat;
+    background-size : 100vw 100vh; */
+    background : hsl(60, 10%, 2%);
+}
+
+
+.navbar-default {
+    background-color: #000;
+    border-color: #000;
+    color : #fff;
+    background-image: none;
+    padding : 10px 0 ;
+}
+
+
+.panel { 
+    background-color : 	hsl(60, 10%, 15%);
+    color : #fff;
+}
+
+.panel-heading{ 
+    padding : 40px;
+    color : #fff;
+    background-image : none;
+    background-color : 	hsl(60, 10%, 15%);
+}
+
+.panel-success>.panel-heading {
+    background-color : 	hsl(60, 10%, 70%);
+    background-image : none;
+    color : #fff;
+
+}
+
+a{
+    color : #fff;
+    background-color : none;
+}
+
+.panel-danger>.panel-heading {
+    background-color : 	hsl(60, 10%, 70%);
+    background-image : none;
+    color : #fff;
+
+}
+
+.panel-info>.panel-heading {
+    background-color : 	hsl(60, 10%, 70%);
+    background-image : none;
+    color : #fff;
+
+}
+
+
+li a{
+    color : #fff;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #000;
+    background-color: #e7e7e7;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+    color: #fff;
+}
+
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active {
+    cursor: default;
+    color: #fff !important;
+    border: 1px solid transparent;
+    background: transparent;
+    box-shadow: none;
+}
+
+
+div.cardHeader {
+    background-color: #4e4e4e;
+    color: white;
+    padding: 10px;
+    font-size: 40px;
+}
+
+.panel-default>.panel-heading{
+    background-image : none;
+    background-color : hsl(60, 10%, 70%);
+}
+
+.img-div{
+    background : #000;
+    background-image : none;
+}
+
+
+legend{
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin-bottom: 20px;
+    font-size: 21px;
+    line-height: inherit;
+    color: #fff;
+    border: 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+td{
+
+    background-color : hsl(60, 10%, 30%);
+}
